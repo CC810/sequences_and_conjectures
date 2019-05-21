@@ -22,5 +22,6 @@ You can hear more often about this sequence. Multiple applications (even some bi
 https://en.wikipedia.org/wiki/Fibonacci_number
 
 **- Mandelbrot and Julia sets:**
-Those iterations are present in the jupyter notebook "mandelbrot.ipynb". I put there the functions and how to draw the iterations giving those beautiful pattern... **mathematics is art**
+Those iterations are present in the jupyter notebook "mandelbrot.ipynb". In the notebook, you will find my notes (where to find more info...), the code and - most importantly - how to draw the iterations giving those beautiful pattern... **mathematics is art**
 
+![mandelbrot_julia](https://user-images.githubusercontent.com/30341704/58104256-c8045d80-7be4-11e9-969a-9dadce8fd2fa.png)
